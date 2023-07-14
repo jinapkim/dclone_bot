@@ -1,5 +1,4 @@
 # DClone Discord Bot for Diablo II:Resurrected
-
 -----
 This is a Discord bot that uses the Diablo Clone Tracker API from diablo2.io to track and report progress of Diablo Clones across all regions and game 
 modes in Diablo 2. It automatically reports changes in progress at or above level 3 (out of 6). Users can use the command /dclone [region] [ladder] [hc] 
