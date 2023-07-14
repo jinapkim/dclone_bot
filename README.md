@@ -14,4 +14,5 @@ How to Install and Run the Bot
 5. Start the bot using:
      python dclone.py
 
+
 * Data courtesy of  diablo2.io (https://diablo2.io/dclonetracker.php)
