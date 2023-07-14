@@ -15,4 +15,4 @@ How to Install and Run the Bot
      python dclone.py
 
 
-* Data courtesy of  diablo2.io (https://diablo2.io/dclonetracker.php)
+\*\ Data courtesy of  diablo2.io (https://diablo2.io/dclonetracker.php)
